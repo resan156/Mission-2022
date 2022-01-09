@@ -1,0 +1,23 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+.mission{
+    display: flex;
+}
+.red-colour{
+    color: red;
+}
+.half-width{
+    width: 90%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: blueviolet;
+    padding: 10px 50px;
+    color: white;
+}
