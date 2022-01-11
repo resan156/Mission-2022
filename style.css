@@ -1,5 +1,6 @@
 body{
     font-family: 'Noto Sans', sans-serif;
+    padding: 5%;
     
 }
 .section1{
@@ -86,5 +87,21 @@ body{
     width: 10% 90%;
     padding-right: 0;
     padding-left: 0;
+    font-size: 25px;
+}
+.section4{
+    width: 90% 10%;
+    padding-top: 5%;
+   
+}
+.half-width4{
+    display: flex;
+    padding-left: 10%;
+}
+.half-width4 img{
+    width: 70%;
+    padding-left: 80px;
+}
+.section4-4{
     font-size: 25px;
 }
