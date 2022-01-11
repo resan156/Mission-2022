@@ -3,6 +3,7 @@ body{
 }
 .mission{
     display: flex;
+    font-size: 20px;
 }
 .red-colour{
     color: red;
@@ -20,4 +21,11 @@ body{
     background-color: blueviolet;
     padding: 10px 50px;
     color: white;
+}
+.focus{
+    border-left: 2px solid green;
+    padding-left: 10px;
+}
+.scroll{
+    padding-top: 30px;
 }
